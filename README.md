@@ -4,6 +4,8 @@
 # Dataset
 [Open Data Paris - The trees](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
+# Preview
+*Missing data with missingno*
 <img src="./pictures\missing_values_in_data.png">
 
 # Dependencies
