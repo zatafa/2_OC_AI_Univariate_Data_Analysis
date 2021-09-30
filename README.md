@@ -4,7 +4,7 @@
 # Dataset
 [Open Data Paris - The trees](https://opendata.paris.fr/explore/dataset/les-arbres/)
 
-![missing_values](pictures\missing_values_in_data.png)
+<img src="./pictures\missing_values_in_data.png">
 
 # Dependencies
 Pandas, numpy, scipy, matplotlib, seaborn, missingno, folium
